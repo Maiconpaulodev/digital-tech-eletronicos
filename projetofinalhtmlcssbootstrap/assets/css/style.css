@@ -1,0 +1,9 @@
+.elemento {
+    @include float-left;
+  }
+  .outro-elemento {
+    @include float-right;
+  }
+  .mais-outro {
+    @include float-none;
+  }

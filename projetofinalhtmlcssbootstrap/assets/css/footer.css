@@ -1,0 +1,38 @@
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background-color: rgb(26, 24, 24);
+  }
+  
+  .alerts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .alert {
+    flex: 1;
+    max-width: calc(50% - 10px);
+  }
+  
+  .links {
+    margin-top: 10px;
+    
+  }
+  a {
+    padding: 8px;
+    text-decoration: none;
+    color: #f8f9fa;
+    
+  }
+  .texto-footer{
+    color: #f8f9fa;
+  }

@@ -1,0 +1,24 @@
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }  
+  .alerts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .alert {
+    flex: 1;
+    max-width: calc(50% - 10px);
+  }
+  
+  .links {
+    margin-top: 10px;
+    
+  }
+  a {
+    padding: 10px;
+    text-decoration: none;
+    
+  }
